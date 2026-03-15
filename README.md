@@ -15,8 +15,8 @@
 *Controlled via 16-bit Hardware Timer*
 
 * **Signal (Orange)** ➔ Arduino **Pin 9**
-* **VCC (Red)** ➔ **External Power Supply (+)**
-* **GND (Brown)** ➔ **External Power Supply (-)**
+* **VCC (Red)** ➔ **Breadboard (+)**
+* **GND (Brown)** ➔ **Breadboard (-)**
 
 ---
 
@@ -24,8 +24,8 @@
 
 * **Trig** ➔ Arduino **Pin 2**
 * **Echo** ➔ Arduino **Pin 3**
-* **VCC** ➔ **External Power Supply (+)**
-* **GND** ➔ **External Power Supply (-)**
+* **VCC** ➔ **Breadboard (+)**
+* **GND** ➔ **Breadboard (-)**
 
 ---
 
